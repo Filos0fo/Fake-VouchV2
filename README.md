@@ -8,9 +8,11 @@ fake vouch that replicates the "ticket" webhook vouch, it create fake vouches to
 - Randomize the usernames , pfp , reasons in the list
 
 
-## libs 
-
+## install 
+Be sure to use the latest version of python
+In cmds run this command:
 `pip install -r requests.txt`
+and then open main.py in idle and paste your webhook in "YOUR WEBHOOK HERE" save and run main.py
 
 
 ## F.A.Q.
