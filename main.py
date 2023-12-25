@@ -11,7 +11,7 @@ import random
 import aiohttp
 import json
 
-url = "'https://discord.com/api/webhooks/1187838943966793858/xCvT_s9NvULitXIxX22HmCcspkE7nObuSFGR3XfNhboYjGIREoKa3GLG-oOlCDYxzjXN"
+url = "YOUR WEBHOOK HERE"
 
 class FakeVouch:
     def __init__(self):
@@ -55,8 +55,6 @@ class FakeVouch:
                 
                          co += 1
                          print(f'Sent request {co}/{self.num_requests}')
-                         if {co} == {self.num_requests} :
-                             webhook.execute(False)
 
                          time.sleep(delay)
                     except Exception as EnvironmentError:
