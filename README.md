@@ -17,4 +17,4 @@ and then open main.py in idle and paste your webhook in "YOUR WEBHOOK HERE" save
 
 ## F.A.Q.
 
-I'm currently trying to solve a bug if you wanna contribute text me on Discord: FlexAHAH
+-I'm currently trying to solve a bug if you wanna contribute text me on Discord: FlexAHAH
