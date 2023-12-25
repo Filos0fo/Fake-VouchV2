@@ -1,0 +1,4 @@
+discord_webhook
+requests
+discord
+discord_webhook
