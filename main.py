@@ -1,15 +1,10 @@
 import requests
-import os
-import asyncio
 import discord
 import discordwebhook
 from discord import Webhook
 from discord_webhook import DiscordWebhook
-import discord_webhook
 import time
 import random
-import aiohttp
-import json
 
 url = "YOUR WEBHOOK HERE"
 
